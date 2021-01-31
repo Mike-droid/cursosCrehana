@@ -1,0 +1,74 @@
+PROYECTO FINAL
+
+1 - ¿Vas a especializarte o prefieres empezar generalista?
+Quiero especializarme en el desarrollo FrontEnd, crear desde 0 páginas web, la verdad
+me gustaría empezar por crear la mía, después me gustaría al principio ir creando
+cualquier oferta que me venga pero me gustaría mucho hacer en específico páginas web
+de comercios como gimnasios o centros deportivos.
+
+2 - ¿Con qué tipo de clientes tienes claro que no quieres trabajar?
+La verdad preferiría no trabajar con personas que busquen páginas religiosas o
+espirituales, no quiero trabajar con personas que tampoco saben exactamente lo que
+quieren, tampoco quiero trabajar con personas que hagan modificaciones o updates
+a cada rato al proyecto, necesito saber desde un inicio qué es exactamente lo que
+quieren.
+ 
+3 - ¿Quién y cómo es el cliente ideal al que te gustaría atraer a tu web?
+Dueños de negocios y/o inversionistas que saben lo que quieren, que quisieran
+tener una página web que usen para llevar al internet su comercio o negocio, como ya
+dije arriba, me interesaría mucho tener clientes que quieran hacer la página web de  
+su gimnasio y que los clientes de ese lugar visiten esa página para conocer las
+instalaciones y los precios, etc.
+
+4 - ¿Qué servicio principal vas a ofrecer?
+Todo el desarrollo FrontEnd de la página web, usando HTML, CSS para dar un diseño
+que sea muy llamativo haciendo que la página web se vea profesional y JavaScript para   
+darle funcionalidad e interación de usuario-página.
+
+
+5 - ¿Cuál será tu nombre? (Nombre propio o nombre corporativo)
+Ejemplo: Voy a usar mi nombre propio: Laura López.
+Miguel Reyes.
+ 
+
+6 - ¿Está tu web preparada para una estrategia de marketing?
+
+❏	Está alojada en tu propio hosting y dominio.
+❏	Está diseñada en wordpress o puedes modificar y añadir secciones o integraciones facilmente.
+❏	Home: Incluyes una presentación específica en la que conectas con tus clientes ideales hablando de sus necesidades y problemas. (Ejemplo: Ayudo a ONGs que necesitan modernizarse a captar más socios y donativos desde su propia página web.)
+❏	La página sobre mi no parece un Curriculum.
+❏	Hablo en primera persona y hay una fotografía profesional mía.
+❏	Página de mi servicio bien desarrollada y enfocada en beneficios y no es simples aspectos técnicos.
+❏	Tienes testimonios de antiguos clientes.
+❏	Tiene cajas de suscripción a la newsletter con un leadmagnet.
+❏	Tiene un “Call to action” a tu página del servicio para pedir cita contigo.
+❏	Hay texto que habla a tus visitantes en su forma de expresarse sin tecnicismos complicados, de tú a tú.
+Por el momento mi página web no existe pero crearé una cuando domine CSS y Javascript
+(HTML ya lo domino)
+
+7 - ¿Qué vas a incluir en tu portafolio?
+
+Haz una lista de tus clientes o proyectos pasados y selecciona los trabajos más representativos que atraigan a clientes similares para incluirlos en tu portfolio. Recuerda, al incluir cada proyecto elegido en tu web deberá ir acompañado de un texto explicativo e idealmente de un testimonio.
+
+❏	Indicaré que he creado ya un programa de escritorio para un gimnasio local
+	y fue hecho para tener un control de los clientes que asisten al mismo
+	junto con los pagos que ellos hacían mensualmente.
+❏	Anotaré sobre los cursos que tomé tanto dentro de la universidad como
+	dentro de ella y que siempre trato de aprender cosas nuevas.
+❏	Enlistaré los libros que he leído y me han ayudado en mi vida no sólo
+	para programación, sino también para emprendimiento.
+❏	Daré a conocer que también hablo inglés, por si necesitan una página
+	web en ese idioma.
+
+8 - ¿Cuál va a ser tu primer pequeño paso al terminar el curso?
+Elije el mínimo paso que puedes dar ahora para pasar a la acción y hacer que tu web esté optimizada para captar clientes con tu nuevo enfoque sin tener que rehacerla entera.
+Mi primer paso ya lo di incluso antes de haber empezado el curso, actualmente estoy
+tomando por mi propia cuenta un curso de CSS (y antes tuve uno de HTML),
+cuando termine éste y lo domine empezaréa tomar uno de JavaScript,
+luego uno de HTML5 (que no es lo mismo que HTML).
+Dentro de poco regresaré a clases a mi universidad y empezaré a ver las bases del
+desarrollo web pero yo ya estaré un poco adelantado en conocimientos y experiencia.
+Usaré todo lo aprendido en el curso para crear mi página web desde cero promocionando
+mis ganas de trabajar:)
+
+ 
